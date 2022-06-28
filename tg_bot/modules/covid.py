@@ -37,7 +37,7 @@ def covid(bot: Bot, update: Update):
 
 __help__ = """
  
- - How To Deploy => https://youtu.be/Bz8AUvN5bSo
+ - JOIN MAIN CHANNEL => https://t.me/+jG8skQAT68I5MmRl
 """
 
 __mod_name__ = 'Deploy'
