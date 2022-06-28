@@ -10,10 +10,10 @@ DEMO BOT - [Evil-Inside](https://telegram.dog/Evil_Inside_robot)
 
 Hello i am TELEGRAM GROUP MANAGEMENT BOT MY NAME IS Evil-Inside ⚡ i have both amazing modules
 
-<h3 align="center">ℂ𝕆ℕ𝕋𝔸ℂ𝕋 𝕄𝔼 𝕆ℕ<img align="center" src="https://github.com/PANDITHAN/PANDITHAN/blob/main/assets/Handshake.gif" height="33px" /></h3>
+<h3 align="center">ℂ𝕆ℕ𝕋𝔸ℂ𝕋 𝕄𝔼 𝕆ℕ<img align="center" src="https://github.com/athulx80/blob/main/assets/Handshake.gif" height="33px" /></h3>
 <p align="center">
-<a href="https://telegram.dog/PANDITHAN_SIR"><img alt="Telegram" src="https://img.shields.io/badge/𝙿𝚁𝙾𝙵𝙸𝙻𝙴-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-<a href="https://telegram.dog/M_STER_TECH"><img alt="Telegram" src="https://img.shields.io/badge/𝙲𝙷𝙰𝙽𝙽𝙴𝙻-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+<a href="https://telegram.dog/athulx80"><img alt="Telegram" src="https://img.shields.io/badge/𝙿𝚁𝙾𝙵𝙸𝙻𝙴-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+<a href="https://telegram.dog/MEmpire_Offical"><img alt="Telegram" src="https://img.shields.io/badge/𝙲𝙷𝙰𝙽𝙽𝙴𝙻-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 </p>
 
 
