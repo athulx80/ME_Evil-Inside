@@ -38,7 +38,7 @@ PM_START_TEXT = """
 
 HELP_STRINGS = """
 
-𝙷𝙴𝙻𝙻𝙾 𝚃𝙷𝙴𝚁𝙴 𝙼𝚈 𝙽𝙰𝙼𝙴 𝙸𝚂 *{}*
+𝙷𝙴𝚈𝚈 𝚃𝙷𝙴𝚁𝙴 𝙼𝚈 𝙽𝙰𝙼𝙴 𝙸𝚂 *{}*
 
 *𝙼𝚊𝚒𝚗* 𝚌𝚘𝚖𝚖𝚊𝚗𝚍𝚜  𝚊𝚟𝚊𝚒𝚕𝚊𝚋𝚕𝚎:
  - /start: 𝚜𝚝𝚊𝚛𝚝 𝚝𝚑𝚎 𝚋𝚘𝚝
@@ -53,7 +53,7 @@ HELP_STRINGS = """
 𝙰𝚗𝚍 𝚝𝚑𝚎 𝚏𝚘𝚕𝚕𝚘𝚠𝚒𝚗𝚐:
 """.format(dispatcher.bot.first_name, "" if not ALLOW_EXCL else "\n𝙰𝚕𝚕 𝚌𝚘𝚖𝚖𝚊𝚗𝚍𝚜 𝚌𝚊𝚗 𝚎𝚒𝚝𝚑𝚎𝚛 𝚋𝚎 𝚞𝚜𝚎𝚍 𝚠𝚒𝚝𝚑 / 𝚘𝚛 !.\n")
 
-TECHNO_IMG = "https://telegra.ph/file/10cf6a74f348caa0096b9.jpg"
+TECHNO_IMG = "https://telegra.ph/file/c8da76cb4b85187755d89.jpg"
 IMPORTED = {}
 MIGRATEABLE = []
 HELPABLE = {}
@@ -146,11 +146,11 @@ def start(bot: Bot, update: Update, args: List[str]):
                 parse_mode=ParseMode.MARKDOWN, reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton(text="𝙷𝙴𝙻𝙿",
                                                                        callback_data="help_back".format(bot.username)),
                                                                                    InlineKeyboardButton(text="𝙲𝙷𝙰𝙽𝙽𝙴𝙻",
-                                                                       url="t.me/M_STER_TECH")],
-                                                                                   [InlineKeyboardButton(text= "𝙳𝙴𝙿𝙻𝙾𝚈",
-                                                                       url="https://youtu.be/Bz8AUvN5bSo"),
+                                                                       url="https://t.me/+sk7Ie0j-XgpjMTdl")],
+                                                                                   [InlineKeyboardButton(text= "𝙶𝚁𝙾𝚄𝙿",
+                                                                       url="https://t.me/+Hz8if9SpuSxhMzk1"),
                                                                                    InlineKeyboardButton(text="𝚂𝙾𝚄𝚁𝙲𝙴 𝙲𝙾𝙳𝙴",
-                                                                       url="https://github.com/PANDITHAN/Evil-Inside")
+                                                                       url="https://github.com/athulx80/ME_Evil-Inside")
                                                                                  ]]))
 
     else:
