@@ -107,7 +107,7 @@ def totranslate(bot: Bot, update: Update):
             "Reply to messages or write messages from other languages ​​for translating into the intended language\n\n"
             "Example: `/tr en ml` to translate from English to Malayalam\n"
             "Or use: `/tr ml` for automatic detection and translating it into Malayalam.\n"
-            "See [List of Language Codes](t.me/OnePunchSupport/12823) for a list of language codes.",
+            "See [List of Language Codes](https://t.me/MoviesEmpire_Support/11) for a list of language codes.",
             parse_mode="markdown", disable_web_page_preview=True)
     except ValueError:
         update.effective_message.reply_text("The intended language is not found!")
