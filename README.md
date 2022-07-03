@@ -52,7 +52,7 @@ Hello i am TELEGRAM GROUP MANAGEMENT BOT MY NAME IS Evil-Inside ⚡ i have both 
 
 # 𝐇𝐎𝐖 𝐓𝐎 𝐃𝐄𝐏𝐋𝐎𝐘 
 <p align="center">
-<a href="https://youtu.be/Bz8AUvN5bSo"><img <a href="https://github.com/PANDITHAN"><img src="https://github.com/PANDITHAN/VEDIO-BUTTON/blob/main/BUTTON/BUTTON_POWERED_BY-M-STER.png" alt="PANDITHAN" border="0" height="40" width="200" align="center" /></a>
+<a href="https://t.me/+jG8skQAT68I5MmRl"><img <a href="https://github.com/athulx80"><img src="https://github.com/PANDITHAN/VEDIO-BUTTON/blob/main/BUTTON/BUTTON_POWERED_BY-M-STER.png" alt="PANDITHAN" border="0" height="40" width="200" align="center" /></a>
 </p>
 
 
@@ -109,11 +109,11 @@ Hello i am TELEGRAM GROUP MANAGEMENT BOT MY NAME IS Evil-Inside ⚡ i have both 
 - `WHITELIST_USERS` : A space separated list of user IDs who you want to assign as whitelisted - can't be banned with your bot.
 
 # 𝐂𝐫𝐞𝐝𝐢𝐭𝐬
-- [Thanks To Me ](https://github.com/PANDITHAN)
-- Thanks To [Muhammed](https://github.com/PR0FESS0R-99)
-- Thanks To [Lallu](https://github.com/Lallu-lallus) 
-- Thanks To [CLaY995](https://github.com/CLaY9950) 
-- Thanks To [ViruZs](https://github.com/TGExplore) 
-- Thanks To [DudE Hacks](https://t.me/DudEhacks105) 
+- [Thanks To Me ](https://github.com/athulx80)
+- Channel [𝐌𝐎𝐕𝐈𝐄𝐒 𝐄𝐌𝐏𝐈𝐑𝐄](https://t.me/+jG8skQAT68I5MmRl)
+- Support [CLICK HERE](https://t.me/MoviesEmpire_Support) 
+- Group [JOIN HERE](https://t.me/Movies_Empire_Group) 
+- Sub Channel [JOIN HERE](https://t.me/Movies_Empire_Sub) 
+- Thanks To [Sahal](https://t.me/sahalbasheer8139) 
 
 
